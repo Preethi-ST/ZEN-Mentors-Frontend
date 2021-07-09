@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ZEN-Mentors-Frontend/static/css/main.5c7eac9d.chunk.css",
+    "main.js": "/ZEN-Mentors-Frontend/static/js/main.6f3a9ae1.chunk.js",
+    "main.js.map": "/ZEN-Mentors-Frontend/static/js/main.6f3a9ae1.chunk.js.map",
+    "runtime-main.js": "/ZEN-Mentors-Frontend/static/js/runtime-main.481a6922.js",
+    "runtime-main.js.map": "/ZEN-Mentors-Frontend/static/js/runtime-main.481a6922.js.map",
+    "static/js/2.90012cda.chunk.js": "/ZEN-Mentors-Frontend/static/js/2.90012cda.chunk.js",
+    "static/js/2.90012cda.chunk.js.map": "/ZEN-Mentors-Frontend/static/js/2.90012cda.chunk.js.map",
+    "static/js/3.27665b57.chunk.js": "/ZEN-Mentors-Frontend/static/js/3.27665b57.chunk.js",
+    "static/js/3.27665b57.chunk.js.map": "/ZEN-Mentors-Frontend/static/js/3.27665b57.chunk.js.map",
+    "index.html": "/ZEN-Mentors-Frontend/index.html",
+    "static/css/main.5c7eac9d.chunk.css.map": "/ZEN-Mentors-Frontend/static/css/main.5c7eac9d.chunk.css.map",
+    "static/js/2.90012cda.chunk.js.LICENSE.txt": "/ZEN-Mentors-Frontend/static/js/2.90012cda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.481a6922.js",
+    "static/js/2.90012cda.chunk.js",
+    "static/css/main.5c7eac9d.chunk.css",
+    "static/js/main.6f3a9ae1.chunk.js"
+  ]
+}
